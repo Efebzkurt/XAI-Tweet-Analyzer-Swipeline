@@ -2,7 +2,7 @@
 
 XAI, kullanıcıdan aldığı twitlerin kullanıcı adı, içerik, tarih ve saat verilerini ortaya koyup tweet içeriği ve duygusunu analiz eden bir yapay zeka uygulamasıdır.
 ## Analiz Sonucu
-<img src="https://github.com/user-attachments/assets/55ffcacf-487b-4e13-8e0e-603a81768d15" height="200">
+<img src="https://github.com/user-attachments/assets/55ffcacf-487b-4e13-8e0e-603a81768d15" height="300">
 
 
 ## Google Sheets
